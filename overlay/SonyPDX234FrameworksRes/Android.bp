@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "SonyPDX215SystemUIRes",
+    name: "SonyPDX234FrameworksRes",
     device_specific: true,
 }

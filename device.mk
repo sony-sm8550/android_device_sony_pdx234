@@ -22,8 +22,8 @@
 # definition file).
 #
 
-# Inherit from sony sm8350-common
-$(call inherit-product, device/sony/sm8350-common/common.mk)
+# Inherit from sony sm8550-common
+$(call inherit-product, device/sony/sm8550-common/common.mk)
 
 # Inherit from Gapps
 $(call inherit-product, vendor/gapps/arm64/arm64-vendor.mk)
@@ -42,8 +42,8 @@ PRODUCT_PACKAGES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
-    SonyPDX215SystemUIRes \
-    SonyPDX215FrameworksRes
+    SonyPDX234SystemUIRes \
+    SonyPDX234FrameworksRes
 
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay-lineage
@@ -59,4 +59,4 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
 # Inherit from vendor blobs
-$(call inherit-product, vendor/sony/pdx215/pdx215-vendor.mk)
+$(call inherit-product, vendor/sony/pdx234/pdx234-vendor.mk)

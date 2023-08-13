@@ -1,14 +1,14 @@
 # Stock package version: XQ-BC72_Customized HK_61.2.A.0.447
 
 # ACDB
-vendor/etc/acdbdata/Sony_sagami_Bluetooth_cal.acdb
-vendor/etc/acdbdata/Sony_sagami_General_cal.acdb
-vendor/etc/acdbdata/Sony_sagami_Global_cal.acdb
-vendor/etc/acdbdata/Sony_sagami_Handset_cal.acdb
-vendor/etc/acdbdata/Sony_sagami_Hdmi_cal.acdb
-vendor/etc/acdbdata/Sony_sagami_Headset_cal.acdb
-vendor/etc/acdbdata/Sony_sagami_Speaker_cal.acdb
-vendor/etc/acdbdata/workspaceFile_Sony_sagami.qwsp
+vendor/etc/acdbdata/Sony_yodo_Bluetooth_cal.acdb
+vendor/etc/acdbdata/Sony_yodo_General_cal.acdb
+vendor/etc/acdbdata/Sony_yodo_Global_cal.acdb
+vendor/etc/acdbdata/Sony_yodo_Handset_cal.acdb
+vendor/etc/acdbdata/Sony_yodo_Hdmi_cal.acdb
+vendor/etc/acdbdata/Sony_yodo_Headset_cal.acdb
+vendor/etc/acdbdata/Sony_yodo_Speaker_cal.acdb
+vendor/etc/acdbdata/workspaceFile_Sony_yodo.qwsp
 
 # Audio FX Modules
 vendor/etc/zoom_noise_reduction/znr_Front_44k.tbl
