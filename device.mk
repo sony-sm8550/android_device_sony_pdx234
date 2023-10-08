@@ -40,6 +40,7 @@ PRODUCT_PACKAGES += \
 # Overlays
 PRODUCT_PACKAGES += \
     SonyPDX234SystemUIRes \
+    SonyPDX234NfcNciRes \
     SonyPDX234FrameworksRes
 
 DEVICE_PACKAGE_OVERLAYS += \
