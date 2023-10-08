@@ -1,4 +1,4 @@
-# Stock package version: XQ-DQ72_Customized HK_67.0.A.4.79
+# Stock package version: XQ-DQ72_Customized HK_67.0.A.4.104
 
 # Audio FX Modules
 vendor/etc/zoom_noise_reduction/znr_default_44k.tbl
