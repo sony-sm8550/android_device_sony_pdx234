@@ -1,4 +1,4 @@
-# Stock package version: XQ-DQ72_Customized HK_67.0.A.4.104
+# Stock package version: XQ-DQ72_Customized HK_67.1.A.2.112
 
 # Audio FX Modules
 vendor/etc/zoom_noise_reduction/znr_Front_44k.tbl
@@ -67,13 +67,13 @@ vendor/camera/LGI12BC0/raw_proc_platform.dat
 vendor/camera/LGI12BC0/recognize_map_comp.dat
 vendor/camera/LGI12BC0/scene_detector.dat
 vendor/camera/MAUNAKEA_FW_DATA_1_0x16903000.dat
-vendor/camera/MAUNAKEA_FW_DATA_1_0x16903010.dat
+vendor/camera/MAUNAKEA_FW_DATA_1_0x16903040.dat
 vendor/camera/MAUNAKEA_FW_DATA_2_0x16903000.dat
-vendor/camera/MAUNAKEA_FW_DATA_2_0x16903010.dat
+vendor/camera/MAUNAKEA_FW_DATA_2_0x16903040.dat
 vendor/camera/MAUNAKEA_FW_DATA_4_0x16903000.dat
-vendor/camera/MAUNAKEA_FW_DATA_4_0x16903010.dat
+vendor/camera/MAUNAKEA_FW_DATA_4_0x16903040.dat
 vendor/camera/MAUNAKEA_FW_DATA_5_0x16903000.dat
-vendor/camera/MAUNAKEA_FW_DATA_5_0x16903010.dat
+vendor/camera/MAUNAKEA_FW_DATA_5_0x16903040.dat
 vendor/camera/Morpho/CLBokeh/MorphoBokeh.bin.89ec02e
 vendor/camera/Morpho/CLBokeh/MorphoFormatUtil.bin.347db6fd
 vendor/camera/Morpho/Halide/halide_13831235
@@ -180,7 +180,6 @@ vendor/camera/SUN12BS0/raw_proc_platform.dat
 vendor/camera/SUN12BS0/recognize_map_comp.dat
 vendor/camera/SUN12BS0/scene_detector.dat
 vendor/camera/default.dat
-vendor/camera/depth.dat
 vendor/camera/display_ctrl.dat
 vendor/camera/file_animal_eye_detector.dat
 vendor/camera/file_autoexposure.dat
