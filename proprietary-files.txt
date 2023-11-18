@@ -620,4 +620,3 @@ vendor/etc/wifi/bdwlan.e30
 vendor/etc/wifi/bdwlan.e31
 vendor/etc/wifi/regdb.bin
 vendor/etc/wifi/wifi_txpower.conf
-vendor/etc/wifi/wpa_supplicant.conf
