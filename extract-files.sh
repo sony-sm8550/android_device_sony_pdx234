@@ -18,7 +18,6 @@ set -e
 export DEVICE=pdx234
 export DEVICE_COMMON=sm8550-common
 export VENDOR=sony
+export VENDOR_COMMON=${VENDOR}
 
-export DEVICE_BRINGUP_YEAR=2022
-
-"./../../${VENDOR}/${DEVICE_COMMON}/extract-files.sh" "$@"
+"./../../${VENDOR_COMMON}/${DEVICE_COMMON}/extract-files.sh" "$@"
